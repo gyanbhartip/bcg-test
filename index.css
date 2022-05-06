@@ -108,6 +108,10 @@ header {
   color: var(--color-white);
 }
 
+.hero {
+  display: flex;
+}
+
 .hero-primary-text-container {
   max-width: 50rem;
   margin-left: 13.75rem;
